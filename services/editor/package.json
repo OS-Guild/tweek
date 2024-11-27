@@ -64,7 +64,7 @@
     "react-router-dom": "^5.2.0",
     "react-tabs": "^3.0.0",
     "react-tag-input": "^6.4.3",
-    "react-tooltip": "^4.2.8",
+    "react-tooltip": "^4.2.21",
     "react-tweek": "^0.7.0",
     "react-virtualized": "^9.22.2",
     "rodal": "^1.6.3",
